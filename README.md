@@ -1,2 +1,6 @@
-# Lightweight-Gaming-Mouse-Review
+# [Lightweight-Gaming-Mouse-Review](https://benchmarksetups.com/lightweight-gaming-mouse-small-pad/)
 Lightweight Gaming Mouse Review: Weight, Sensor, and Small Pad Fit Compared
+Your cursor slams into the edge of your mousepad mid-swipe, or a fast flick runs out of room because there is no space left to reposition. On a small pad, weight, lift-off distance, and how the mouse glides matter more than the maximum DPI on the box. We compared four lightweight gaming mouse models on weight, sensor, polling rate, and battery life. Short answer: the Logitech G Pro X Superlight 2 and Razer Viper V3 Pro are the premium picks, while the VXE R1 Pro is the budget option and the lightest mouse here.
+
+What We Compared and Why Lift-Off Distance Matters More Than Max DPI
+Most lightweight gaming mouse reviews lead with maximum DPI, a number few people use; most players stay somewhere between 400 and 3,200 DPI. On a small pad you reposition more often, so lift-off distance, the height at which the sensor stops tracking when you lift the mouse, matters more. Manufacturers rarely publish it, and we haven’t measured it ourselves yet, so the table compares weight, sensor, polling rate, and battery life instead.
